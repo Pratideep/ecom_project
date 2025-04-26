@@ -1,0 +1,1 @@
+mongodb+srv://pratideep:<db_password>@cluster0.5aduc88.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
